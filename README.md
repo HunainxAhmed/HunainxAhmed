@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
   <!-- Header Banner Animation -->
   <a href="https://github.com/HunainxAhmed">
@@ -14,7 +14,7 @@
 
   <!-- Quick Social & Connect Badges -->
   <p align="center">
-    <a href="https://www.linkedin.com/in/hunain-ahmed/" target="_blank">
+    <a href="https://www.linkedin.com/in/hunain-ahmed-a654793b1/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Hunain%20Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="https://www.upwork.com/freelancers/~017666d6bc5fb3ee01?mp_source=share" target="_blank">
@@ -191,7 +191,7 @@ Hello and welcome! I am **Hunain Ahmed**, an ambitious **AI / Machine Learning E
 I am always excited to discuss innovative AI/ML research, collaborate on open-source initiatives, or build ambitious full-stack software products.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hunain-ahmed/" target="_blank">
+  <a href="https://www.linkedin.com/in/hunain-ahmed-a654793b1/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
