@@ -17,7 +17,7 @@
     <a href="https://www.linkedin.com/in/hunain-ahmed-a654793b1/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Hunain%20Ahmed-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="https://www.upwork.com/freelancers/~017666d6bc5fb3ee01?mp_source=share" target="_blank">
+    <a href="https://www.upwork.com/freelancers/~017666d6bc5fb3ee01" target="_blank">
       <img src="https://img.shields.io/badge/Upwork-Top%20Rated%20Freelancer-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
     </a>
     <a href="https://github.com/HunainxAhmed" target="_blank">
@@ -195,7 +195,7 @@ I am always excited to discuss innovative AI/ML research, collaborate on open-so
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.upwork.com/freelancers/~017666d6bc5fb3ee01?mp_source=share" target="_blank">
+  <a href="https://www.upwork.com/freelancers/~017666d6bc5fb3ee01" target="_blank">
     <img src="https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork" />
   </a>
   &nbsp;&nbsp;
