@@ -169,7 +169,7 @@ Hello and welcome! I am **Hunain Ahmed**, an ambitious **AI / Machine Learning E
       </td>
       <td align="center">
         <a href="https://github.com/HunainxAhmed">
-          <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=HunainxAhmed&theme=tokyonight&hide_border=true&bg_color=0D1117&ring=38BDF8&fire=F59E0B&currStreakNum=38BDF8" alt="Hunain's Streak Stats" />
+          <img src="https://streak-stats.demolab.com/?user=HunainxAhmed&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakNum=38BDF8" alt="Hunain's Streak Stats" />
         </a>
       </td>
     </tr>
