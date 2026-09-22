@@ -164,12 +164,12 @@ Hello and welcome! I am **Hunain Ahmed**, an ambitious **AI / Machine Learning E
     <tr>
       <td align="center">
         <a href="https://github.com/HunainxAhmed">
-          <img src="https://github-readme-stats.vercel.app/api?username=HunainxAhmed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="Hunain's GitHub Stats" />
+          <img src="https://github-readme-stats-fast.vercel.app/api?username=HunainxAhmed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" alt="Hunain's GitHub Stats" />
         </a>
       </td>
       <td align="center">
         <a href="https://github.com/HunainxAhmed">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=HunainxAhmed&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=F59E0B&currStreakNum=38BDF8" alt="Hunain's Streak Stats" />
+          <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=HunainxAhmed&theme=tokyonight&hide_border=true&bg_color=0D1117&ring=38BDF8&fire=F59E0B&currStreakNum=38BDF8" alt="Hunain's Streak Stats" />
         </a>
       </td>
     </tr>
@@ -178,7 +178,7 @@ Hello and welcome! I am **Hunain Ahmed**, an ambitious **AI / Machine Learning E
   <br />
 
   <a href="https://github.com/HunainxAhmed">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HunainxAhmed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&langs_count=8" alt="Top Languages" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=HunainxAhmed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=94A3B8&langs_count=8" alt="Top Languages" />
   </a>
 </div>
 
